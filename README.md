@@ -1,2 +1,2 @@
 # favorite-notebooks
-Some of my favorite notebooks I've played around with.
+Some of my favorite notebooks.
